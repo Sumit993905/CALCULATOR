@@ -19,17 +19,7 @@ body{
 
 
 }
-button{
 
-    padding: 3%;
-    margin: 3px;
-    background: transparent;
-    color: #ffffff;
-    font-size: 20px;
-    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
-    cursor: pointer;
-
-}
 .equalBtn{
     background-color: #fb7c14;
 }
@@ -57,6 +47,7 @@ input{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
+    color: #ffffff;
 }
 input::placeholder{
     color: #ffffff;
